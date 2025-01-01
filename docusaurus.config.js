@@ -1,7 +1,7 @@
 // @ts-check
 
 import { themes as prismThemes } from "prism-react-renderer";
-import { Icon } from "semantic-ui-react";
+// import { Icon } from "semantic-ui-react";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -11,7 +11,7 @@ const config = {
 
   // Set the production url of your site here
   url: "https://192.168.0.6:3000",
-  baseUrl: "/InstallerArmory/",
+  baseUrl: "/",
 
   organizationName: "facebook", // Your GitHub org/user name
   projectName: "Installation", // Your repo name
@@ -31,11 +31,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/jeetsuthar/InstallerArmory/tree/main/",
+          editUrl: "https://github.com/Jitendra7073/Installation_guidance/tree/main/",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/jeetsuthar/InstallerArmory/tree/main/",
+          editUrl: "https://github.com/Jitendra7073/Installation_guidance/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

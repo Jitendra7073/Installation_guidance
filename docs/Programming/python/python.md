@@ -30,7 +30,6 @@ This guide provides step-by-step instructions to install Python on **Windows**, 
 - Type `python --version` or `python` in the Command Prompt and press Enter.
 - Type `pip --version` and press Enter to confirm that `pip` is installed correctly.
 
-<strong>Video</strong> : [Python Installation in windows](https://youtu.be/TNAu6DvB9Ng?si=LXreuQVFDRY7HnII)
 
 ---
 

@@ -58,7 +58,7 @@ This guide provides quick and easy instructions to set up JavaScript through **N
 ### 2. Verify Installation
 
 - Open Terminal and type `node -v` and `npm -v` to verify the installations.
-
+    
 ---
 
 **Note:** After completing these steps, JavaScript is ready to run using Node.js on your system.
